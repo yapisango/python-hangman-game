@@ -51,8 +51,7 @@ def display_hint(hint):
 
 
 def display_answer(answer):
-    pass
-# print(f"The word was: {answer}")
+    print(" ".join(answer))
 
 
 def main():
